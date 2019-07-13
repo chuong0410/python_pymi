@@ -1,0 +1,265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8115018,
+                    21.0140736
+                ]
+            },
+            "properties": {
+                "name": "4 Vũ Ngọc Phan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8030749,
+                    21.0073895
+                ]
+            },
+            "properties": {
+                "name": "24T2 Hoàng Đạo Thúy - Cầu Giấy - Hà Nội, Hoàng Đạo Thúy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8005185,
+                    21.0152939
+                ]
+            },
+            "properties": {
+                "name": "Số 3, Trung Yên 3, Trung Hoà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8093704,
+                    21.0156316
+                ]
+            },
+            "properties": {
+                "name": "68 Nguyên Hồng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8190079,
+                    21.0227456
+                ]
+            },
+            "properties": {
+                "name": "2 Láng Hạ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8189526,
+                    21.0037083
+                ]
+            },
+            "properties": {
+                "name": "90 Đường Láng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8094291,
+                    21.0156435
+                ]
+            },
+            "properties": {
+                "name": "66 Nguyên Hồng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8111011,
+                    21.0186937
+                ]
+            },
+            "properties": {
+                "name": "110 Huỳnh Thúc Kháng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7917896,
+                    21.0298027
+                ]
+            },
+            "properties": {
+                "name": "Dịch Vọng, Cầu Giấy, Hanoi, Vietnam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8041149,
+                    20.9973448
+                ]
+            },
+            "properties": {
+                "name": "Nguyễn Huy Tưởng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8120038,
+                    21.024763
+                ]
+            },
+            "properties": {
+                "name": "928 Đường La Thành"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7980354,
+                    21.0176709
+                ]
+            },
+            "properties": {
+                "name": "Vũ Phạm Hàm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8032322,
+                    21.0178362
+                ]
+            },
+            "properties": {
+                "name": "790 Đường Láng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8141525,
+                    21.0210932
+                ]
+            },
+            "properties": {
+                "name": "Số 2 B2A Thành Công"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.819183,
+                    21.021924
+                ]
+            },
+            "properties": {
+                "name": "Số 2 Láng Hạ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7915703,
+                    21.0206176
+                ]
+            },
+            "properties": {
+                "name": "222 Trung Kính"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8079458,
+                    21.0328329
+                ]
+            },
+            "properties": {
+                "name": "56 Đào Tấn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8113501,
+                    21.0050262
+                ]
+            },
+            "properties": {
+                "name": "142 Quan Nhân"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8173285,
+                    21.0145453
+                ]
+            },
+            "properties": {
+                "name": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8059664,
+                    20.9985169
+                ]
+            },
+            "properties": {
+                "name": "96 Nguyễn Huy Tưởng"
+            }
+        }
+    ]
+}
