@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Top Articles at familug</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+td {
+  text-align: left;
+  vertical-align: top;
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align: center;">This is my second website</h2>
+<p style="text-align: center;">Các bài viết phân loại theo tag trên FAMILUG.org</p>
+
+<table style="width:100%">
+  <caption><h2>Articles in label</h2></caption>
+  <thead>
+  <tr>
+    <th>Python</th>
+    <th>Command</th> 
+    <th>Sysadmin</th>
+    <th>Lastest</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> 
+      <ol>
+        {% for titles, links, labels in pythons %}
+        <li><a href="{{links}}">{{titles}}</a></li>
+        {% endfor %}     
+    </ol> 
+    </td>
+    <td>      
+        <ol>
+        {% for titles, links, labels in commands %}
+        <li><a href="{{links}}">{{titles}}</a></li>
+        {% endfor %} 
+        </ol>
+    </td>
+    <td>
+        <ol>
+        {% for titles, links, labels in sysadmins %}
+        <li><a href="{{links}}">{{titles}}</a></li>
+        {% endfor %} 
+        </ol>
+    </td>
+    <td> 
+        <ol>
+        {% for titles, links, labels in lastests %}
+        <li><a href="{{links}}">{{titles}}</a></li>
+        {% endfor %} 
+        </ol> 
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<p>Credit: Noahz</p>
+
+</body>
+</html>
